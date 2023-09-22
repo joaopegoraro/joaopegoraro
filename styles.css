@@ -1,0 +1,8 @@
+.flair {
+	position: absolute;
+	top: 400px;
+	right: 25px;
+	z-index: 1;
+	width: 208px;
+  	height: 58px;
+}
